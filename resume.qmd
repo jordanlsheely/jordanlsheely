@@ -1,0 +1,7 @@
+---
+title: "Resume"
+---
+
+<iframe width="800" height="1000" src="Jordan_Sheely_Resume_Formatted.pdf">
+
+</iframe>
