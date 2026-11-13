@@ -15,7 +15,7 @@ The data set we covered was a kaggle data set on Space Mission Launches, it incl
 
 ![](Space%20Launches%20FINAL-1.jpg)
 
-![](Space%20Launches%20FINAL-2.jpg) Does a countries number of space launches effect their success rate? To make the scatter plot, we plotted the number of launches a country did compared to the success rate of those launches. This was done by making a pivot table that looked at launch status against the origin. And the success rate divided by total launches. We found that the variables seem to follow a logarithmic distribution. This is interesting because the world's captivation with space has shifted a lot over time
+![](Space%20Launches%20FINAL-2.jpg) Does a countries number of space launches effect their success rate? To make the scatter plot, we plotted the number of launches a country did compared to the success rate of those launches. This was done by making a pivot table that looked at launch status against the origin. And the success rate divided by total launches. We found that the variables seem to follow a logarithmic distribution.This is interesting because we never hear about when other smaller companies and other countries launches their rockets and so this gave an in dept look at it
 
 ![](Space%20Launches%20FINAL-3.jpg)
 
