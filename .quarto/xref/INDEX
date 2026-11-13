@@ -16,5 +16,11 @@
   },
   "resume.qmd": {
     "resume.html": "77baa101"
+  },
+  "posts/Data VIsualization/index.qmd": {
+    "index.html": "4c62d1ed"
+  },
+  "posts/Data VIsualization/presentation.qmd": {
+    "presentation.html": "ca232f6e"
   }
 }
