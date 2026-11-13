@@ -7,7 +7,7 @@ lightbox: true
 format: html
 ---
 
-Team Members - [Jordan Sheely](https://jordanlsheely.github.io/jordanlsheely/) - [Austin Horton](https://austin-horton.github.io/) - [Elliot Boyd]() - [Carter Flynt]() - [Jace Keller]()
+Team Members - [Jordan Sheely](https://jordanlsheely.github.io/jordanlsheely/) - [Austin Horton](https://austin-horton.github.io/) - [Elliot Boyd](http://elliottboyd.github.io/) - [Carter Flynt](https://carterflynt.github.io/) - [Jace Keller](https://jace1206.github.io/)
 
 ## Data Set
 
