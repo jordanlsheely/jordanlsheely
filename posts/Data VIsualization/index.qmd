@@ -1,6 +1,6 @@
 ---
 title: "Data Visualization on Rocket Launches"
-description: "What conclusions can be made from analyzing Space Mission Launches?"
+description: "What conclusions can be made from analyzing space mission launches? Our team used pivot tables and charts to explore launch counts, success rates, history, and cost."
 date: "2026-11-13"
 image: Space Launches FINAL_page-1.jpg
 lightbox: true 
@@ -10,13 +10,13 @@ format: html
 Team Members
 - [Jordan Sheely](https://jordanlsheely.github.io/jordanlsheely/)
 - [Austin Horton](https://austin-horton.github.io/)
-- [Elliot Boyd](http://elliottboyd.github.io/)
+- [Elliott Boyd](http://elliottboyd.github.io/)
 - [Carter Flynt](https://carterflynt.github.io/)
 - [Jace Keller](https://jace1206.github.io/)
 
 ## Data Set
 
-The data set we covered was a kaggle data set on Space Mission Launches, it includes all of the space missions that have been launched since the beginning of Space race in 1957! - [Dataset](https://www.kaggle.com/datasets/salmane/space-missions-launches)
+The data set we covered was a kaggle data set on Space Mission Launches, it includes all of the space missions that have been launched since the beginning of Space race in 1957 - [Dataset](https://www.kaggle.com/datasets/salmane/space-missions-launches)
 
 ![](Space%20Launches%20FINAL-1.jpg)
 
