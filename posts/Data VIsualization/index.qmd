@@ -15,16 +15,24 @@ The data set we covered was a kaggle data set on Space Mission Launches, it incl
 
 ![](Space%20Launches%20FINAL-1.jpg)
 
-![](Space%20Launches%20FINAL-2.jpg) Does a countries number of space launches effect their success rate? To make the scatter plot, we plotted the number of launches a country did compared to the success rate of those launches. This was done by making a pivot table that looked at launch status against the origin. And the success rate divided by total launches. We found that the variables seem to follow a logarithmic distribution.This is interesting because we never hear about when other smaller companies and other countries launches their rockets and so this gave an in dept look at it
+## Does a country's number of space launches affect their success rate?
+
+![](Space%20Launches%20FINAL-2.jpg) To make the scatter plot, we plotted the number of launches a country did compared to the success rate of those launches. This was done by making a pivot table that looked at launch status against the origin. And the success rate divided by total launches. We found that the variables seem to follow a logarithmic distribution.This is interesting because we never hear about when other smaller companies and other countries launches their rockets and so this gave an in dept look at it
+
+## Do certain countries launch more rockets than others?
 
 ![](Space%20Launches%20FINAL-3.jpg)
 
-Do certain countries launch more rockets than others? To create this bar chart, we looked at total rocket launches for the most active launching countries. A pivot table was made comparing each country to their total number of launches. There is a clear skew for Russia and USA indicating they have a much higher presence in space launches. This is interesting because it shows the scope of just how many rockets are have been launched by these countries
+To create this bar chart, we looked at total rocket launches for the most active launching countries. A pivot table was made comparing each country to their total number of launches. There is a clear skew for Russia and USA indicating they have a much higher presence in space launches. This is interesting because it shows the scope of just how many rockets are have been launched by these countries
+
+## What is the historical distribution of annual space launches?
 
 ![](Space%20Launches%20FINAL-4.jpg)
 
-What is the historical distribution of annual space launches? The distribution was determined by analyzing the count of annual rocket launches. After parsing the data to keep only relevant information, a pivot table was used to organize information. A graph was then made to represent count vs year. This is interesting because it shows how the iteration process and amount of launches interact with one another and why space is a trial and error industry
+The distribution was determined by analyzing the count of annual rocket launches. After parsing the data to keep only relevant information, a pivot table was used to organize information. A graph was then made to represent count vs year. This is interesting because it shows how the iteration process and amount of launches interact with one another and why space is a trial and error industry
+
+## What is the statistical distribution of prices in rocket launches?
 
 ![](Space%20Launches%20FINAL-5.jpg)
 
-What is the statistical distribution of prices in rocket launches? The distribution was determined by analyzing the adjusted price of each rocket launch. By using the cost in a certain year and the CPI (each years inflation to 2025), the prices were then able to be compared. Then, the count of each rocket launch was combined into bins. this was interesting to see the distribution and also to see how expensive rockets were even back in the early 60's Important note: Many rockets did not have a listed price for the launch, so those launches were excluded.
+ The distribution was determined by analyzing the adjusted price of each rocket launch. By using the cost in a certain year and the CPI (each years inflation to 2025), the prices were then able to be compared. Then, the count of each rocket launch was combined into bins. this was interesting to see the distribution and also to see how expensive rockets were even back in the early 60's Important note: Many rockets did not have a listed price for the launch, so those launches were excluded.
